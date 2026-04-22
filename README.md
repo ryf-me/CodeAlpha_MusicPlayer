@@ -1,6 +1,6 @@
-# Pulse Deck
+# Music Player
 
-Pulse Deck is a premium-style music player web app built with pure HTML, CSS, and vanilla JavaScript. It is designed to feel polished and product-like, with a glassmorphism interface, animated controls, a responsive layout, and a playlist-driven playback experience similar to a compact modern streaming player.
+This is a premium-style music player web app built with pure HTML, CSS, and vanilla JavaScript. It is designed to feel polished and product-like, with a glassmorphism interface, animated controls, a responsive layout, and a playlist-driven playback experience similar to a compact modern streaming player.
 
 ## Features
 
